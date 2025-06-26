@@ -4,7 +4,7 @@ This public repository holds my auto-generated resume releases.
 
 ## Latest Resume
 
-📄**[Download Latest Resume](https://github.com/advaypakhale/resume-releases/releases/latest/download/advay_pakhale_resume.pdf)**
+📄[**Download Latest Resume**](https://github.com/advaypakhale/resume-releases/releases/latest/download/advay_pakhale_resume.pdf)
 
 
 ## About
